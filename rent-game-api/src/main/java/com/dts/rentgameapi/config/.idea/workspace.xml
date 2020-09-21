@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a46e482c-a2cd-4f01-80de-0b5e12c98ebe" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../../../../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../config/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../rent-game-api.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../security/JwtGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../security/JwtGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../security/login/JwtAuthenticationLogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/../security/login/JwtAuthenticationLogin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../security/register/JwtRegisterProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/../security/register/JwtRegisterProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/RentGameApiApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/RentGameApiApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/Vip.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/Vip.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/config/AppConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/config/AppConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/config/ConfigManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/config/ConfigManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/config/JwtSecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/config/JwtSecurityConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/config/SwaggerConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/config/SwaggerConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/controller/BaseController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/controller/BaseController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/controller/ver1/auth/CashOutHistoryController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/controller/ver1/auth/CashOutHistoryController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/controller/ver1/auth/CategoryController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/controller/ver1/auth/CategoryController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/controller/ver1/auth/ChargeHistoryController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/controller/ver1/auth/ChargeHistoryController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/controller/ver1/auth/GameAccountController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/controller/ver1/auth/GameAccountController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/controller/ver1/auth/GameController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/controller/ver1/auth/GameController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/controller/ver1/auth/GameDownloadController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/controller/ver1/auth/GameDownloadController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/controller/ver1/auth/GameStoreController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/controller/ver1/auth/GameStoreController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/controller/ver1/auth/ProviderController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/controller/ver1/auth/ProviderController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/controller/ver1/auth/RentHistoryController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/controller/ver1/auth/RentHistoryController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/controller/ver1/auth/ShopController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/controller/ver1/auth/ShopController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/controller/ver1/auth/UploadController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/controller/ver1/auth/UploadController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/controller/ver1/auth/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/controller/ver1/auth/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/controller/ver1/publish/PublishCategoryController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/controller/ver1/publish/PublishCategoryController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/controller/ver1/publish/PublishGameAccountController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/controller/ver1/publish/PublishGameAccountController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/controller/ver1/publish/PublishGameController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/controller/ver1/publish/PublishGameController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/controller/ver1/publish/PublishGameDownloadController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/controller/ver1/publish/PublishGameDownloadController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/controller/ver1/publish/PublishGameStoreController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/controller/ver1/publish/PublishGameStoreController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/controller/ver1/publish/PublishProviderController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/controller/ver1/publish/PublishProviderController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/controller/ver1/publish/PublishShopController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/controller/ver1/publish/PublishShopController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/controller/ver1/publish/PublishUserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/controller/ver1/publish/PublishUserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/controller/ver2/auth/CashOutHistoryControllerVer2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/controller/ver2/auth/CashOutHistoryControllerVer2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/controller/ver2/auth/ChargeHistoryControllerVer2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/controller/ver2/auth/ChargeHistoryControllerVer2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/controller/ver2/auth/GameAccountControllerVer2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/controller/ver2/auth/GameAccountControllerVer2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/controller/ver2/auth/GameControllerVer2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/controller/ver2/auth/GameControllerVer2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/controller/ver2/auth/RentGameHistoryControllerVer2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/controller/ver2/auth/RentGameHistoryControllerVer2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/controller/ver2/auth/ShopControllerVer2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/controller/ver2/auth/ShopControllerVer2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/controller/ver2/auth/UserControllerVer2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/controller/ver2/auth/UserControllerVer2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/controller/ver2/publish/LoginSocialController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/controller/ver2/publish/LoginSocialController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/controller/ver2/publish/PublishGameControllerVer2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/controller/ver2/publish/PublishGameControllerVer2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/converters/GameFromConveter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/converters/GameFromConveter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/converters/GameOwnerConveter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/converters/GameOwnerConveter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/converters/GameSliderConverter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/converters/GameSliderConverter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/dto/mapping/DetailGameAccountMapping.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/dto/mapping/DetailGameAccountMapping.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/dto/mapping/GameAggregateMoneyMapping.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/dto/mapping/GameAggregateMoneyMapping.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/dto/mapping/GameDetailMapping.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/dto/mapping/GameDetailMapping.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/dto/mapping/GameFormMapping.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/dto/mapping/GameFormMapping.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/dto/mapping/GameOwnerPlayedMapping.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/dto/mapping/GameOwnerPlayedMapping.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/dto/mapping/GameSliderMapping.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/dto/mapping/GameSliderMapping.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/dto/mapping/RentChargeHistoryEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/dto/mapping/RentChargeHistoryEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/dto/mapping/RentHisShopGameAccountMapping.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/dto/mapping/RentHisShopGameAccountMapping.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/dto/mapping/UserRentGameInfoMapping.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/dto/mapping/UserRentGameInfoMapping.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/dto/ver1/AccountPrice.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/dto/ver1/AccountPrice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/dto/ver1/ActionHistory.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/dto/ver1/ActionHistory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/dto/ver1/Affiliate.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/dto/ver1/Affiliate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/dto/ver1/AffiliateCashoutHistory.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/dto/ver1/AffiliateCashoutHistory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/dto/ver1/CashoutHistory.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/dto/ver1/CashoutHistory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/dto/ver1/Category.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/dto/ver1/Category.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/dto/ver1/ChargeHistory.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/dto/ver1/ChargeHistory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/dto/ver1/DetailGameAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/dto/ver1/DetailGameAccount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/dto/ver1/Faq.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/dto/ver1/Faq.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/dto/ver1/Game.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/dto/ver1/Game.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/dto/ver1/GameAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/dto/ver1/GameAccount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/dto/ver1/GameDetail.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/dto/ver1/GameDetail.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/dto/ver1/GameDownload.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/dto/ver1/GameDownload.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/dto/ver1/GamePlaying.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/dto/ver1/GamePlaying.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/dto/ver1/GameStore.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/dto/ver1/GameStore.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/dto/ver1/Guide.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/dto/ver1/Guide.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/dto/ver1/HibernateSequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/dto/ver1/HibernateSequence.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/dto/ver1/Level.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/dto/ver1/Level.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/dto/ver1/News.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/dto/ver1/News.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/dto/ver1/Notice.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/dto/ver1/Notice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/dto/ver1/Provider.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/dto/ver1/Provider.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/dto/ver1/RentHistory$Status.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/dto/ver1/RentHistory$Status.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/dto/ver1/RentHistory.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/dto/ver1/RentHistory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/dto/ver1/Shop.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/dto/ver1/Shop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/dto/ver1/Slider.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/dto/ver1/Slider.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/dto/ver1/StopRentGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/dto/ver1/StopRentGame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/dto/ver1/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/dto/ver1/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/dto/ver1/Vip.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/dto/ver1/Vip.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/dto/ver2/GameForm.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/dto/ver2/GameForm.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/dto/ver2/GameOwner.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/dto/ver2/GameOwner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/dto/ver2/GameSlider.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/dto/ver2/GameSlider.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/entity/LblLevelEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/entity/LblLevelEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/entity/TblAccountPriceEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/entity/TblAccountPriceEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/entity/TblActionHistoryEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/entity/TblActionHistoryEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/entity/TblAffiliateCashoutHistoryEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/entity/TblAffiliateCashoutHistoryEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/entity/TblAffiliateEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/entity/TblAffiliateEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/entity/TblCashoutHistoryEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/entity/TblCashoutHistoryEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/entity/TblCategoryEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/entity/TblCategoryEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/entity/TblChargeHistoryEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/entity/TblChargeHistoryEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/entity/TblFaqEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/entity/TblFaqEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/entity/TblGameAccountEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/entity/TblGameAccountEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/entity/TblGameDownloadEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/entity/TblGameDownloadEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/entity/TblGameEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/entity/TblGameEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/entity/TblGameStoreEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/entity/TblGameStoreEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/entity/TblGuideEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/entity/TblGuideEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/entity/TblNewsEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/entity/TblNewsEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/entity/TblNoticeEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/entity/TblNoticeEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/entity/TblProviderEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/entity/TblProviderEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/entity/TblRentHistoryEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/entity/TblRentHistoryEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/entity/TblShopEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/entity/TblShopEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/entity/TblShopGamesEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/entity/TblShopGamesEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/entity/TblShopGamesEntityPK.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/entity/TblShopGamesEntityPK.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/entity/TblSliderEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/entity/TblSliderEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/entity/TblUserEntity$Type.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/entity/TblUserEntity$Type.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/entity/TblUserEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/entity/TblUserEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/entity/TblUserGameInfoEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/entity/TblUserGameInfoEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/entity/TblUserGameInfoEntityPK.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/entity/TblUserGameInfoEntityPK.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/entity/TblVipEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/entity/TblVipEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/request/CashoutRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/request/CashoutRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/request/ChargeRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/request/ChargeRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/request/CreateGameAccountRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/request/CreateGameAccountRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/request/CreateShopRequset.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/request/CreateShopRequset.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/request/DeleteRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/request/DeleteRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/request/LoginFacebookRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/request/LoginFacebookRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/request/LoginRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/request/LoginRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/request/UpdateGameAccountRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/request/UpdateGameAccountRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/request/UpdatePasswordRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/request/UpdatePasswordRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/request/UpdateProfileRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/request/UpdateProfileRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/request/UpdateShopRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/request/UpdateShopRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/response/LoginRegisterResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/response/LoginRegisterResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/response/base/BaseResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/response/base/BaseResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/response/base/GetListResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/response/base/GetListResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/response/base/LoginResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/response/base/LoginResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/response/base/SimpleResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/response/base/SimpleResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/response/base/SingleItemResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/domain/response/base/SingleItemResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/refactor/Refactor.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/refactor/Refactor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/repo/CashoutHistoryRepo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/repo/CashoutHistoryRepo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/repo/ChargeHistoryRepo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/repo/ChargeHistoryRepo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/repo/GameAccountRepo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/repo/GameAccountRepo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/repo/GameDownloadRepo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/repo/GameDownloadRepo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/repo/GameRepo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/repo/GameRepo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/repo/RentHistoryRepo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/repo/RentHistoryRepo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/repo/ShopRepo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/repo/ShopRepo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/repo/UserGameInfoRepo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/repo/UserGameInfoRepo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/repo/UserRepo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/repo/UserRepo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/repo/custom/ChargeHistoryCustomRepo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/repo/custom/ChargeHistoryCustomRepo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/repo/custom/GameAccountCustomRepo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/repo/custom/GameAccountCustomRepo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/repo/custom/GameCustomRepo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/repo/custom/GameCustomRepo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/repo/custom/RentGameHistoryCustomRepo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/repo/custom/RentGameHistoryCustomRepo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/repo/custom/UserGameInfoCustomRepo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/repo/custom/UserGameInfoCustomRepo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/security/JwtAuthenticationEntryPoint.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/security/JwtAuthenticationEntryPoint.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/security/JwtAuthenticationLoginRegisterFailureHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/security/JwtAuthenticationLoginRegisterFailureHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/security/JwtAuthenticationLoginRegisterSuccessHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/security/JwtAuthenticationLoginRegisterSuccessHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/security/JwtAuthenticationProvider.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/security/JwtAuthenticationProvider.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/security/JwtAuthenticationTokenFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/security/JwtAuthenticationTokenFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/security/JwtGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/security/JwtGenerator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/security/JwtLoginRegisterProcessingFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/security/JwtLoginRegisterProcessingFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/security/JwtSuccessHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/security/JwtSuccessHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/security/JwtValidator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/security/JwtValidator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/security/exception/AuthenticationUsernamePasswordInvalidException.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/security/exception/AuthenticationUsernamePasswordInvalidException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/security/exception/JwtExpiredTokenException.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/security/exception/JwtExpiredTokenException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/security/exception/JwtInvalid.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/security/exception/JwtInvalid.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/security/jwt/JwtAuthenticationToken.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/security/jwt/JwtAuthenticationToken.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/security/jwt/JwtUser.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/security/jwt/JwtUser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/security/jwt/JwtUserDetails.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/security/jwt/JwtUserDetails.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/security/login/JwtAuthenticationLogin.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/security/login/JwtAuthenticationLogin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/security/login/JwtAuthenticationLoginProvider.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/security/login/JwtAuthenticationLoginProvider.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/security/match/MatchLoginRegister.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/security/match/MatchLoginRegister.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/security/match/SkipPathRequestMatcher.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/security/match/SkipPathRequestMatcher.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/security/register/JwtAuthenticationRegister.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/security/register/JwtAuthenticationRegister.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/security/register/JwtRegisterProvider.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/security/register/JwtRegisterProvider.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/service/ver1/CashOutHistoryService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/service/ver1/CashOutHistoryService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/service/ver1/CategoryService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/service/ver1/CategoryService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/service/ver1/ChargeHistoryService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/service/ver1/ChargeHistoryService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/service/ver1/GameAccountService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/service/ver1/GameAccountService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/service/ver1/GameDownloadService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/service/ver1/GameDownloadService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/service/ver1/GameService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/service/ver1/GameService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/service/ver1/GameStoreService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/service/ver1/GameStoreService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/service/ver1/ProviderService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/service/ver1/ProviderService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/service/ver1/RentHistoryService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/service/ver1/RentHistoryService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/service/ver1/ShopService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/service/ver1/ShopService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/service/ver1/SliderService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/service/ver1/SliderService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/service/ver1/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/service/ver1/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/service/ver1/impl/CashoutHistoryServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/service/ver1/impl/CashoutHistoryServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/service/ver1/impl/CategoryServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/service/ver1/impl/CategoryServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/service/ver1/impl/ChargeHistoryServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/service/ver1/impl/ChargeHistoryServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/service/ver1/impl/GameAccountServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/service/ver1/impl/GameAccountServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/service/ver1/impl/GameDownloadServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/service/ver1/impl/GameDownloadServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/service/ver1/impl/GameServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/service/ver1/impl/GameServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/service/ver1/impl/GameStoreServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/service/ver1/impl/GameStoreServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/service/ver1/impl/ProviderServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/service/ver1/impl/ProviderServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/service/ver1/impl/RentHistoryServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/service/ver1/impl/RentHistoryServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/service/ver1/impl/ShopServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/service/ver1/impl/ShopServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/service/ver1/impl/SliderServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/service/ver1/impl/SliderServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/service/ver1/impl/UserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/service/ver1/impl/UserServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/service/ver2/CashoutHistoryServiceVer2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/service/ver2/CashoutHistoryServiceVer2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/service/ver2/ChargeServiceVer2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/service/ver2/ChargeServiceVer2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/service/ver2/GameAccountServiceVer2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/service/ver2/GameAccountServiceVer2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/service/ver2/GameServiceVer2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/service/ver2/GameServiceVer2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/service/ver2/LoginSocialServiceVer2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/service/ver2/LoginSocialServiceVer2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/service/ver2/RentHistoryServiceVer2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/service/ver2/RentHistoryServiceVer2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/service/ver2/ShopServiceVer2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/service/ver2/ShopServiceVer2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/service/ver2/UserServiceVer2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/service/ver2/UserServiceVer2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/service/ver2/impl/CashoutHistoryServiceImplVer2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/service/ver2/impl/CashoutHistoryServiceImplVer2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/service/ver2/impl/ChargeServiceImplVer2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/service/ver2/impl/ChargeServiceImplVer2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/service/ver2/impl/GameAccountServiceImplVer2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/service/ver2/impl/GameAccountServiceImplVer2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/service/ver2/impl/GameServiceImplVer2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/service/ver2/impl/GameServiceImplVer2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/service/ver2/impl/LoginSocialServiceImplVer2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/service/ver2/impl/LoginSocialServiceImplVer2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/service/ver2/impl/RentHistoryServiceImplVer2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/service/ver2/impl/RentHistoryServiceImplVer2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/service/ver2/impl/ShopServiceImplVer2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/service/ver2/impl/ShopServiceImplVer2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/service/ver2/impl/UserServiceImplVer2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/service/ver2/impl/UserServiceImplVer2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/utils/AccountPriceBeanUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/utils/AccountPriceBeanUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/utils/ActionHistoryBeanUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/utils/ActionHistoryBeanUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/utils/AffCashOutHistoryBeanUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/utils/AffCashOutHistoryBeanUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/utils/AffiliateBeanUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/utils/AffiliateBeanUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/utils/CashOutHistoryBeanUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/utils/CashOutHistoryBeanUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/utils/CategoryBeanUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/utils/CategoryBeanUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/utils/ChargeHistoryBeanUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/utils/ChargeHistoryBeanUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/utils/GameAccountBeanUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/utils/GameAccountBeanUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/utils/GameBeanUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/utils/GameBeanUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/utils/GameDownloadBeanUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/utils/GameDownloadBeanUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/utils/GameStoreBeanUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/utils/GameStoreBeanUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/utils/IDataConvert.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/utils/IDataConvert.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/utils/ProviderBeanUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/utils/ProviderBeanUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/utils/RentHistoryBeanUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/utils/RentHistoryBeanUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/utils/RentUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/utils/RentUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/utils/ShopBeanUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/utils/ShopBeanUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/utils/SliderBeanUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/utils/SliderBeanUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/utils/UserBeanUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/utils/UserBeanUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/utils/VipBeanUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../target/classes/com/dts/rentgameapi/utils/VipBeanUtil.class" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-685998984">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="3" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../../../.." />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="315" />
+    <option name="y" value="50" />
+    <option name="width" value="1540" />
+    <option name="height" value="865" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="config" type="b2602c69:ProjectViewProjectNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a46e482c-a2cd-4f01-80de-0b5e12c98ebe" name="Default Changelist" comment="" />
+      <created>1587293453363</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587293453363</updated>
+      <workItem from="1587293454972" duration="110000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="110000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.25302014" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Run" order="6" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/AppConfig.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConfigManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-16" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JwtSecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1428" />
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

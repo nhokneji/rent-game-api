@@ -1,0 +1,1777 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f4f09d98-d7ba-4f87-96fb-0b99ea5989da" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rent-game-api.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/domain/entity/TblGameEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/domain/entity/TblGameEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/security/JwtGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/security/JwtGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/security/login/JwtAuthenticationLogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/security/login/JwtAuthenticationLogin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/security/register/JwtRegisterProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/security/register/JwtRegisterProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/RentGameApiApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/RentGameApiApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/Vip.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/Vip.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/config/AppConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/config/AppConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/config/ConfigManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/config/ConfigManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/config/JwtSecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/config/JwtSecurityConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/config/SwaggerConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/config/SwaggerConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/controller/BaseController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/controller/BaseController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/controller/ver1/auth/CashOutHistoryController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/controller/ver1/auth/CashOutHistoryController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/controller/ver1/auth/CategoryController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/controller/ver1/auth/CategoryController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/controller/ver1/auth/ChargeHistoryController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/controller/ver1/auth/ChargeHistoryController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/controller/ver1/auth/GameAccountController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/controller/ver1/auth/GameAccountController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/controller/ver1/auth/GameController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/controller/ver1/auth/GameController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/controller/ver1/auth/GameDownloadController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/controller/ver1/auth/GameDownloadController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/controller/ver1/auth/GameStoreController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/controller/ver1/auth/GameStoreController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/controller/ver1/auth/ProviderController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/controller/ver1/auth/ProviderController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/controller/ver1/auth/RentHistoryController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/controller/ver1/auth/RentHistoryController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/controller/ver1/auth/ShopController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/controller/ver1/auth/ShopController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/controller/ver1/auth/UploadController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/controller/ver1/auth/UploadController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/controller/ver1/auth/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/controller/ver1/auth/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/controller/ver1/publish/PublishCategoryController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/controller/ver1/publish/PublishCategoryController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/controller/ver1/publish/PublishGameAccountController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/controller/ver1/publish/PublishGameAccountController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/controller/ver1/publish/PublishGameController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/controller/ver1/publish/PublishGameController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/controller/ver1/publish/PublishGameDownloadController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/controller/ver1/publish/PublishGameDownloadController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/controller/ver1/publish/PublishGameStoreController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/controller/ver1/publish/PublishGameStoreController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/controller/ver1/publish/PublishProviderController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/controller/ver1/publish/PublishProviderController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/controller/ver1/publish/PublishShopController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/controller/ver1/publish/PublishShopController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/controller/ver1/publish/PublishUserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/controller/ver1/publish/PublishUserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/controller/ver2/auth/CashOutHistoryControllerVer2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/controller/ver2/auth/CashOutHistoryControllerVer2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/controller/ver2/auth/ChargeHistoryControllerVer2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/controller/ver2/auth/ChargeHistoryControllerVer2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/controller/ver2/auth/GameAccountControllerVer2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/controller/ver2/auth/GameAccountControllerVer2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/controller/ver2/auth/GameControllerVer2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/controller/ver2/auth/GameControllerVer2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/controller/ver2/auth/RentGameHistoryControllerVer2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/controller/ver2/auth/RentGameHistoryControllerVer2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/controller/ver2/auth/ShopControllerVer2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/controller/ver2/auth/ShopControllerVer2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/controller/ver2/auth/UserControllerVer2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/controller/ver2/auth/UserControllerVer2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/controller/ver2/publish/LoginSocialController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/controller/ver2/publish/LoginSocialController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/controller/ver2/publish/PublishGameControllerVer2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/controller/ver2/publish/PublishGameControllerVer2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/converters/GameFromConveter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/converters/GameFromConveter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/converters/GameOwnerConveter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/converters/GameOwnerConveter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/converters/GameSliderConverter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/converters/GameSliderConverter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/dto/mapping/DetailGameAccountMapping.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/dto/mapping/DetailGameAccountMapping.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/dto/mapping/GameAggregateMoneyMapping.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/dto/mapping/GameAggregateMoneyMapping.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/dto/mapping/GameDetailMapping.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/dto/mapping/GameDetailMapping.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/dto/mapping/GameFormMapping.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/dto/mapping/GameFormMapping.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/dto/mapping/GameOwnerPlayedMapping.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/dto/mapping/GameOwnerPlayedMapping.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/dto/mapping/GameSliderMapping.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/dto/mapping/GameSliderMapping.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/dto/mapping/RentChargeHistoryEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/dto/mapping/RentChargeHistoryEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/dto/mapping/RentHisShopGameAccountMapping.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/dto/mapping/RentHisShopGameAccountMapping.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/dto/mapping/UserRentGameInfoMapping.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/dto/mapping/UserRentGameInfoMapping.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/dto/ver1/AccountPrice.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/dto/ver1/AccountPrice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/dto/ver1/ActionHistory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/dto/ver1/ActionHistory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/dto/ver1/Affiliate.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/dto/ver1/Affiliate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/dto/ver1/AffiliateCashoutHistory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/dto/ver1/AffiliateCashoutHistory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/dto/ver1/CashoutHistory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/dto/ver1/CashoutHistory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/dto/ver1/Category.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/dto/ver1/Category.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/dto/ver1/ChargeHistory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/dto/ver1/ChargeHistory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/dto/ver1/DetailGameAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/dto/ver1/DetailGameAccount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/dto/ver1/Faq.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/dto/ver1/Faq.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/dto/ver1/Game.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/dto/ver1/Game.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/dto/ver1/GameAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/dto/ver1/GameAccount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/dto/ver1/GameDetail.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/dto/ver1/GameDetail.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/dto/ver1/GameDownload.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/dto/ver1/GameDownload.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/dto/ver1/GamePlaying.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/dto/ver1/GamePlaying.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/dto/ver1/GameStore.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/dto/ver1/GameStore.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/dto/ver1/Guide.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/dto/ver1/Guide.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/dto/ver1/HibernateSequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/dto/ver1/HibernateSequence.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/dto/ver1/Level.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/dto/ver1/Level.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/dto/ver1/News.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/dto/ver1/News.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/dto/ver1/Notice.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/dto/ver1/Notice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/dto/ver1/Provider.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/dto/ver1/Provider.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/dto/ver1/RentHistory$Status.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/dto/ver1/RentHistory$Status.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/dto/ver1/RentHistory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/dto/ver1/RentHistory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/dto/ver1/Shop.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/dto/ver1/Shop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/dto/ver1/Slider.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/dto/ver1/Slider.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/dto/ver1/StopRentGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/dto/ver1/StopRentGame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/dto/ver1/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/dto/ver1/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/dto/ver1/Vip.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/dto/ver1/Vip.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/dto/ver2/GameForm.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/dto/ver2/GameForm.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/dto/ver2/GameOwner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/dto/ver2/GameOwner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/dto/ver2/GameSlider.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/dto/ver2/GameSlider.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/entity/LblLevelEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/entity/LblLevelEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/entity/TblAccountPriceEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/entity/TblAccountPriceEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/entity/TblActionHistoryEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/entity/TblActionHistoryEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/entity/TblAffiliateCashoutHistoryEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/entity/TblAffiliateCashoutHistoryEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/entity/TblAffiliateEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/entity/TblAffiliateEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/entity/TblCashoutHistoryEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/entity/TblCashoutHistoryEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/entity/TblCategoryEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/entity/TblCategoryEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/entity/TblChargeHistoryEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/entity/TblChargeHistoryEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/entity/TblFaqEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/entity/TblFaqEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/entity/TblGameAccountEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/entity/TblGameAccountEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/entity/TblGameDownloadEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/entity/TblGameDownloadEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/entity/TblGameEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/entity/TblGameEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/entity/TblGameStoreEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/entity/TblGameStoreEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/entity/TblGuideEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/entity/TblGuideEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/entity/TblNewsEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/entity/TblNewsEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/entity/TblNoticeEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/entity/TblNoticeEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/entity/TblProviderEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/entity/TblProviderEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/entity/TblRentHistoryEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/entity/TblRentHistoryEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/entity/TblShopEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/entity/TblShopEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/entity/TblShopGamesEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/entity/TblShopGamesEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/entity/TblShopGamesEntityPK.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/entity/TblShopGamesEntityPK.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/entity/TblSliderEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/entity/TblSliderEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/entity/TblUserEntity$Type.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/entity/TblUserEntity$Type.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/entity/TblUserEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/entity/TblUserEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/entity/TblUserGameInfoEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/entity/TblUserGameInfoEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/entity/TblUserGameInfoEntityPK.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/entity/TblUserGameInfoEntityPK.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/entity/TblVipEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/entity/TblVipEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/request/CashoutRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/request/CashoutRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/request/ChargeRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/request/ChargeRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/request/CreateGameAccountRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/request/CreateGameAccountRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/request/CreateShopRequset.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/request/CreateShopRequset.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/request/DeleteRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/request/DeleteRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/request/LoginFacebookRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/request/LoginFacebookRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/request/LoginRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/request/LoginRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/request/UpdateGameAccountRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/request/UpdateGameAccountRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/request/UpdatePasswordRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/request/UpdatePasswordRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/request/UpdateProfileRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/request/UpdateProfileRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/request/UpdateShopRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/request/UpdateShopRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/response/LoginRegisterResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/response/LoginRegisterResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/response/base/BaseResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/response/base/BaseResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/response/base/GetListResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/response/base/GetListResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/response/base/LoginResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/response/base/LoginResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/response/base/SimpleResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/response/base/SimpleResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/response/base/SingleItemResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/domain/response/base/SingleItemResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/refactor/Refactor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/refactor/Refactor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/repo/CashoutHistoryRepo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/repo/CashoutHistoryRepo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/repo/ChargeHistoryRepo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/repo/ChargeHistoryRepo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/repo/GameAccountRepo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/repo/GameAccountRepo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/repo/GameDownloadRepo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/repo/GameDownloadRepo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/repo/GameRepo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/repo/GameRepo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/repo/RentHistoryRepo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/repo/RentHistoryRepo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/repo/ShopRepo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/repo/ShopRepo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/repo/UserGameInfoRepo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/repo/UserGameInfoRepo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/repo/UserRepo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/repo/UserRepo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/repo/custom/ChargeHistoryCustomRepo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/repo/custom/ChargeHistoryCustomRepo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/repo/custom/GameAccountCustomRepo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/repo/custom/GameAccountCustomRepo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/repo/custom/GameCustomRepo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/repo/custom/GameCustomRepo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/repo/custom/RentGameHistoryCustomRepo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/repo/custom/RentGameHistoryCustomRepo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/repo/custom/UserGameInfoCustomRepo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/repo/custom/UserGameInfoCustomRepo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/security/JwtAuthenticationEntryPoint.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/security/JwtAuthenticationEntryPoint.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/security/JwtAuthenticationLoginRegisterFailureHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/security/JwtAuthenticationLoginRegisterFailureHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/security/JwtAuthenticationLoginRegisterSuccessHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/security/JwtAuthenticationLoginRegisterSuccessHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/security/JwtAuthenticationProvider.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/security/JwtAuthenticationProvider.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/security/JwtAuthenticationTokenFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/security/JwtAuthenticationTokenFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/security/JwtGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/security/JwtGenerator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/security/JwtLoginRegisterProcessingFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/security/JwtLoginRegisterProcessingFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/security/JwtSuccessHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/security/JwtSuccessHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/security/JwtValidator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/security/JwtValidator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/security/exception/AuthenticationUsernamePasswordInvalidException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/security/exception/AuthenticationUsernamePasswordInvalidException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/security/exception/JwtExpiredTokenException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/security/exception/JwtExpiredTokenException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/security/exception/JwtInvalid.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/security/exception/JwtInvalid.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/security/jwt/JwtAuthenticationToken.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/security/jwt/JwtAuthenticationToken.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/security/jwt/JwtUser.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/security/jwt/JwtUser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/security/jwt/JwtUserDetails.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/security/jwt/JwtUserDetails.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/security/login/JwtAuthenticationLogin.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/security/login/JwtAuthenticationLogin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/security/login/JwtAuthenticationLoginProvider.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/security/login/JwtAuthenticationLoginProvider.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/security/match/MatchLoginRegister.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/security/match/MatchLoginRegister.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/security/match/SkipPathRequestMatcher.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/security/match/SkipPathRequestMatcher.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/security/register/JwtAuthenticationRegister.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/security/register/JwtAuthenticationRegister.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/security/register/JwtRegisterProvider.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/security/register/JwtRegisterProvider.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/service/ver1/CashOutHistoryService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/service/ver1/CashOutHistoryService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/service/ver1/CategoryService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/service/ver1/CategoryService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/service/ver1/ChargeHistoryService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/service/ver1/ChargeHistoryService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/service/ver1/GameAccountService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/service/ver1/GameAccountService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/service/ver1/GameDownloadService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/service/ver1/GameDownloadService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/service/ver1/GameService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/service/ver1/GameService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/service/ver1/GameStoreService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/service/ver1/GameStoreService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/service/ver1/ProviderService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/service/ver1/ProviderService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/service/ver1/RentHistoryService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/service/ver1/RentHistoryService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/service/ver1/ShopService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/service/ver1/ShopService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/service/ver1/SliderService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/service/ver1/SliderService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/service/ver1/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/service/ver1/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/service/ver1/impl/CashoutHistoryServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/service/ver1/impl/CashoutHistoryServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/service/ver1/impl/CategoryServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/service/ver1/impl/CategoryServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/service/ver1/impl/ChargeHistoryServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/service/ver1/impl/ChargeHistoryServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/service/ver1/impl/GameAccountServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/service/ver1/impl/GameAccountServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/service/ver1/impl/GameDownloadServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/service/ver1/impl/GameDownloadServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/service/ver1/impl/GameServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/service/ver1/impl/GameServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/service/ver1/impl/GameStoreServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/service/ver1/impl/GameStoreServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/service/ver1/impl/ProviderServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/service/ver1/impl/ProviderServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/service/ver1/impl/RentHistoryServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/service/ver1/impl/RentHistoryServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/service/ver1/impl/ShopServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/service/ver1/impl/ShopServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/service/ver1/impl/SliderServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/service/ver1/impl/SliderServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/service/ver1/impl/UserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/service/ver1/impl/UserServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/service/ver2/CashoutHistoryServiceVer2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/service/ver2/CashoutHistoryServiceVer2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/service/ver2/ChargeServiceVer2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/service/ver2/ChargeServiceVer2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/service/ver2/GameAccountServiceVer2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/service/ver2/GameAccountServiceVer2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/service/ver2/GameServiceVer2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/service/ver2/GameServiceVer2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/service/ver2/LoginSocialServiceVer2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/service/ver2/LoginSocialServiceVer2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/service/ver2/RentHistoryServiceVer2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/service/ver2/RentHistoryServiceVer2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/service/ver2/ShopServiceVer2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/service/ver2/ShopServiceVer2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/service/ver2/UserServiceVer2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/service/ver2/UserServiceVer2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/service/ver2/impl/CashoutHistoryServiceImplVer2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/service/ver2/impl/CashoutHistoryServiceImplVer2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/service/ver2/impl/ChargeServiceImplVer2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/service/ver2/impl/ChargeServiceImplVer2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/service/ver2/impl/GameAccountServiceImplVer2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/service/ver2/impl/GameAccountServiceImplVer2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/service/ver2/impl/GameServiceImplVer2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/service/ver2/impl/GameServiceImplVer2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/service/ver2/impl/LoginSocialServiceImplVer2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/service/ver2/impl/LoginSocialServiceImplVer2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/service/ver2/impl/RentHistoryServiceImplVer2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/service/ver2/impl/RentHistoryServiceImplVer2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/service/ver2/impl/ShopServiceImplVer2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/service/ver2/impl/ShopServiceImplVer2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/service/ver2/impl/UserServiceImplVer2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/service/ver2/impl/UserServiceImplVer2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/utils/AccountPriceBeanUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/utils/AccountPriceBeanUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/utils/ActionHistoryBeanUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/utils/ActionHistoryBeanUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/utils/AffCashOutHistoryBeanUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/utils/AffCashOutHistoryBeanUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/utils/AffiliateBeanUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/utils/AffiliateBeanUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/utils/CashOutHistoryBeanUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/utils/CashOutHistoryBeanUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/utils/CategoryBeanUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/utils/CategoryBeanUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/utils/ChargeHistoryBeanUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/utils/ChargeHistoryBeanUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/utils/GameAccountBeanUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/utils/GameAccountBeanUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/utils/GameBeanUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/utils/GameBeanUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/utils/GameDownloadBeanUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/utils/GameDownloadBeanUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/utils/GameStoreBeanUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/utils/GameStoreBeanUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/utils/IDataConvert.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/utils/IDataConvert.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/utils/ProviderBeanUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/utils/ProviderBeanUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/utils/RentHistoryBeanUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/utils/RentHistoryBeanUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/utils/RentUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/utils/RentUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/utils/ShopBeanUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/utils/ShopBeanUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/utils/SliderBeanUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/utils/SliderBeanUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/utils/UserBeanUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/utils/UserBeanUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/utils/VipBeanUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dts/rentgameapi/utils/VipBeanUtil.class" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/rent_game_api$RentGameApiApplication.ic" NAME="RentGameApiApplication Coverage Results" MODIFIED="1539880149644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="ezplay@203.162.166.162" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="ezplay@203.162.166.162" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="ezplay@203.162.166.162" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="ezplay: schema" type="c314c289:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="ezplay@203.162.166.162" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="ezplay: schema" type="c314c289:MysqlImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="ezplay@203.162.166.162" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="ezplay: schema" type="c314c289:MysqlImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="tbl_charge_history: table" type="98d5ac3d:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1281840367">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="28" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="7" />
+          <entry key="project.open.time.10" value="6" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.2" value="3" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.3" value="4" />
+          <entry key="project.open.time.32" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.5" value="2" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="28" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="85" />
+          <entry key="java" value="933" />
+          <entry key="properties" value="7" />
+          <entry key="sql" value="1" />
+          <entry key="tbl_charge_history" value="1" />
+          <entry key="xml" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="85" />
+          <entry key="Database Element" value="1" />
+          <entry key="JAVA" value="933" />
+          <entry key="Properties" value="7" />
+          <entry key="Scratch" value="1" />
+          <entry key="XML" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="124" />
+          <entry key="java" value="8796" />
+          <entry key="txt" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="8796" />
+          <entry key="PLAIN_TEXT" value="130" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1775673937">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="43" />
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="43" />
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-437425814">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="32" />
+          <entry key="project.open.time.1" value="9" />
+          <entry key="project.open.time.12" value="2" />
+          <entry key="project.open.time.13" value="2" />
+          <entry key="project.open.time.14" value="2" />
+          <entry key="project.open.time.15" value="4" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.2" value="6" />
+          <entry key="project.open.time.3" value="3" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="32" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="456" />
+          <entry key="xml" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="456" />
+          <entry key="XML" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="16" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="16" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="rent-game-api" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/service/ver1/impl/GameAccountServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="31" column="36" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/controller/ver1/publish/PublishGameController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/controller/ver1/publish/PublishShopController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/controller/ver2/publish/LoginSocialController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/controller/ver2/publish/PublishGameControllerVer2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/repo/custom/GameAccountCustomRepo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="29" column="9" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/repo/custom/ChargeHistoryCustomRepo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="24" column="35" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/repo/custom/GameCustomRepo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="85" column="100" selection-start-line="85" selection-start-column="83" selection-end-line="85" selection-end-column="100" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/domain/entity/TblGameEntity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-306">
+              <caret line="14" selection-start-line="14" selection-end-line="15" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>GameOwnerPlayedMapping</find>
+      <find>GameFormMapping</find>
+      <find>RentHisShopGameAccountMapping</find>
+      <find>TIME_TOKEN_EXPIRE</find>
+      <find>setExpiration</find>
+      <find>cashout</find>
+      <find>/auth/api/cashout</find>
+      <find>setRoles</find>
+      <find>jwtUser.setR</find>
+      <find>@EnableTransactionManagement</find>
+      <find>@Confi</find>
+      <find>setRenUser</find>
+      <find>setRentUser</find>
+      <find>RentChargeHistoryMapping</find>
+      <find>UserRentGameInfoMapping</find>
+      <find>Date.c</find>
+      <find>setSuccess</find>
+      <find>GameSliderMapping</find>
+      <find>GameAggregateMoneyMapping</find>
+      <find>GameAggregateMoneyEntityMapping</find>
+      <find>DetailGameAccountEntityMapping</find>
+      <find>jwt</find>
+      <find>login</find>
+      <find>token</find>
+      <find>LoginRegisterResponse</find>
+      <find>E:\Java\framework\rent-game-api\src\main\java\com\dts\rentgameapi\security\JwtAuthenticationTokenFilter.javaE:\Java\framework\rent-game-api\src\main\java\com\dts\rentgameapi\security\JwtAuthenticationTokenFilter.java</find>
+      <find>Rin-Author</find>
+      <find>jwtAuthenticationLoginProvider</find>
+      <find>GameDetailMapping</find>
+      <find>FieldResult</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/domain/entity</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$USER_HOME$/EsportPlus/esportplus-app-api/src/main/java/com/dts/topshare/config/MySQLConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/domain/response/LoginRegisterResponse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/security/JwtAuthenticationLoginRegisterSuccessHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/security/JwtAuthenticationLoginRegisterFailureHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/domain/request/UpdateProfileRequest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/service/ver2/impl/UserServiceImplVer2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/domain/dto/mapping/RentChargeHistory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/controller/ver2/auth/ChargeHistoryControllerVer2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/service/ver2/ChargeServiceVer2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/domain/dto/mapping/RentChargeHistoryMapping.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/domain/dto/mapping/RentChargeHistoryEntity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/repo/custom/ChargeHistoryCustomRepo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/repo/ChargeHistoryRepo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/service/ver2/impl/ChargeServiceImplVer2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/service/ver1/impl/CashoutHistoryServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/domain/entity/TblSliderEntity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/domain/entity/TblUserEntity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/service/BaseService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/service/ver2/impl/ShopServiceImplVer2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/domain/dto/ver1/AffiliateCashoutHistory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/service/ver2/impl/LoginSocialServiceImplVer2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/service/ver2/impl/CashoutHistoryServiceImplVer2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/domain/dto/ver1/ChargeHistory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/domain/dto/ver1/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/service/ver1/impl/ChargeHistoryServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/service/ver1/impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/service/ver2/impl/GameAccountServiceImplVer2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/domain/dto/ver1/GameAccount.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/utils/GameBeanUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/domain/dto/ver1/ActionHistory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/domain/dto/ver1/RentHistory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/utils/RentHistoryBeanUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/domain/dto/ver1/CashoutHistory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/domain/dto/ver1/Shop.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/service/ver1/impl/RentHistoryServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/domain/entity/TblChargeHistoryEntity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/domain/entity/TblRentHistoryEntity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/domain/entity/TblGameAccountEntity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/refactor/Refactor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/domain/dto/mapping/GameDetailMapping.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/service/ver2/impl/GameServiceImplVer2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/security/login/JwtAuthenticationLogin.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/controller/ver1/auth/ShopController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/security/login/JwtAuthenticationLoginProvider.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/controller/ver2/auth/CashOutHistoryControllerVer2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/controller/BaseController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/security/register/JwtRegisterProvider.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/security/JwtGenerator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/security/jwt/JwtUser.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/repo/custom/UserGameInfoCustomRepo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/domain/entity/TblGameEntity.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="rent-game-api" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="rent-game-api" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="355" />
+    <option name="y" value="25" />
+    <option name="width" value="1480" />
+    <option name="height" value="970" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="rent-game-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rent-game-api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rent-game-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rent-game-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rent-game-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rent-game-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rent-game-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rent-game-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rent-game-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rent-game-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="rentgameapi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rent-game-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rent-game-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="rentgameapi" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rent-game-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rent-game-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="rentgameapi" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+              <item name="ver1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rent-game-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rent-game-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="rentgameapi" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+              <item name="ver1" type="462c0819:PsiDirectoryNode" />
+              <item name="publish" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rent-game-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rent-game-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="rentgameapi" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+              <item name="ver2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rent-game-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rent-game-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="rentgameapi" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+              <item name="ver2" type="462c0819:PsiDirectoryNode" />
+              <item name="publish" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rent-game-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rent-game-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="rentgameapi" type="462c0819:PsiDirectoryNode" />
+              <item name="refactor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rent-game-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rent-game-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="rentgameapi" type="462c0819:PsiDirectoryNode" />
+              <item name="repo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rent-game-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rent-game-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="rentgameapi" type="462c0819:PsiDirectoryNode" />
+              <item name="repo" type="462c0819:PsiDirectoryNode" />
+              <item name="custom" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rent-game-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rent-game-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="rentgameapi" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rent-game-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rent-game-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="rentgameapi" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="ver1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rent-game-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rent-game-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="rentgameapi" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="ver1" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="JPA.DatabaseSchemaImportDialog" value="719a01af-9569-446e-a997-43f68fc31866" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SearchEverywhereHistoryKey" value="DetailGameAccountMapping&#9;PSI&#9;JAVA://com.dts.rentgameapi.domain.dto.mapping.DetailGameAccountMapping" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1587292880276" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../moviedate" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.dts.rentgameapi.domain.entity.custom" />
+    </key>
+    <key name="ImportMappingsDialog.RecentPackages">
+      <recent name="com.dts.rentgameapi.domain.entity" />
+      <recent name="" />
+      <recent name="com.dts.rentgameapi.refactor" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="RentGameApiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="rent-game-api" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dts.rentgameapi.RentGameApiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f4f09d98-d7ba-4f87-96fb-0b99ea5989da" name="Default Changelist" comment="" />
+      <created>1539067630065</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1539067630065</updated>
+      <workItem from="1539067631228" duration="832000" />
+      <workItem from="1539068664103" duration="1510000" />
+      <workItem from="1539070251125" duration="247000" />
+      <workItem from="1539149936250" duration="13781000" />
+      <workItem from="1539167194909" duration="252000" />
+      <workItem from="1539219002696" duration="10592000" />
+      <workItem from="1539233897548" duration="3172000" />
+      <workItem from="1539252640572" duration="853000" />
+      <workItem from="1539305781134" duration="8585000" />
+      <workItem from="1539319048663" duration="635000" />
+      <workItem from="1539327754983" duration="2179000" />
+      <workItem from="1539584323410" duration="670000" />
+      <workItem from="1539585017468" duration="3566000" />
+      <workItem from="1539588589959" duration="39000" />
+      <workItem from="1539589568572" duration="9556000" />
+      <workItem from="1539606746842" duration="11459000" />
+      <workItem from="1539651221946" duration="490000" />
+      <workItem from="1539658753282" duration="188000" />
+      <workItem from="1539765633439" duration="1824000" />
+      <workItem from="1539790376466" duration="4581000" />
+      <workItem from="1539828036863" duration="53000" />
+      <workItem from="1539828127749" duration="1699000" />
+      <workItem from="1539833214716" duration="3057000" />
+      <workItem from="1539851135374" duration="5648000" />
+      <workItem from="1539859195062" duration="648000" />
+      <workItem from="1539879543262" duration="2107000" />
+      <workItem from="1539929609637" duration="4696000" />
+      <workItem from="1539937454750" duration="306000" />
+      <workItem from="1551413384413" duration="2183000" />
+      <workItem from="1551420566932" duration="2837000" />
+      <workItem from="1551430218298" duration="33000" />
+      <workItem from="1551679156060" duration="13000" />
+      <workItem from="1551679501050" duration="763000" />
+      <workItem from="1568612950217" duration="1028000" />
+      <workItem from="1569468191403" duration="1089000" />
+      <workItem from="1570600805279" duration="385000" />
+      <workItem from="1570602421699" duration="189000" />
+      <workItem from="1571393593968" duration="712000" />
+      <workItem from="1571413533804" duration="3347000" />
+      <workItem from="1571418564310" duration="2334000" />
+      <workItem from="1571490989408" duration="13447000" />
+      <workItem from="1571561551732" duration="6204000" />
+      <workItem from="1572085733206" duration="2647000" />
+      <workItem from="1572778143597" duration="3927000" />
+      <workItem from="1576481780956" duration="2157000" />
+      <workItem from="1576817790923" duration="66000" />
+      <workItem from="1576941916964" duration="43000" />
+      <workItem from="1577716142838" duration="1676000" />
+      <workItem from="1577763624130" duration="103000" />
+      <workItem from="1581870678244" duration="2018000" />
+      <workItem from="1582170883575" duration="37000" />
+      <workItem from="1582182171371" duration="10227000" />
+      <workItem from="1582251191784" duration="2261000" />
+      <workItem from="1582270793931" duration="2574000" />
+      <workItem from="1582516206946" duration="9272000" />
+      <workItem from="1582615031327" duration="653000" />
+      <workItem from="1582771290610" duration="623000" />
+      <workItem from="1583210694183" duration="617000" />
+      <workItem from="1584168715984" duration="3932000" />
+      <workItem from="1584420526917" duration="7000" />
+      <workItem from="1587286396720" duration="3339000" />
+      <workItem from="1588149151897" duration="1824000" />
+      <workItem from="1588435580060" duration="3505000" />
+      <workItem from="1588561364665" duration="1583000" />
+      <workItem from="1588566758199" duration="5219000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="186099000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.9449945" visible="true" weight="0.21140939" />
+      <window_info id="Structure" order="1" sideWeight="0.5007215" side_tool="true" weight="0.25641027" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" sideWeight="0.5007215" side_tool="true" weight="0.25641027" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info id="Persistence" order="8" sideWeight="0.055005502" side_tool="true" visible="true" weight="0.2451923" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32893288" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.43344334" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.47234043" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.25742576" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Console" order="14" weight="0.32893288" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.12783661" />
+      <window_info anchor="right" id="Database" order="6" weight="0.25641027" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.91967213" visible="true" weight="0.18910256" />
+      <window_info id="Structure" order="1" sideWeight="0.5007215" side_tool="true" weight="0.25641027" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" sideWeight="0.5007215" side_tool="true" weight="0.25641027" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info id="Persistence" order="8" sideWeight="0.08032787" side_tool="true" visible="true" weight="0.18910256" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32893288" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.21232124" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.22552255" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.32893288" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" visible="true" weight="0.18055555" />
+      <window_info anchor="right" id="Database" order="6" weight="0.25641027" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/utils/ShopBeanUtil.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/controller/ver2/auth/GameAccountControllerVer2.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/service/ver2/impl/GameAccountServiceImplVer2.java</url>
+          <line>43</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/repo/custom/GameAccountCustomRepo.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/service/ver1/impl/UserServiceImpl.java</url>
+          <line>142</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/service/ver1/impl/UserServiceImpl.java</url>
+          <line>138</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/controller/ver2/auth/RentGameHistoryControllerVer2.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/service/ver2/impl/RentHistoryServiceImplVer2.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/repo/custom/RentGameHistoryCustomRepo.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/service/ver2/impl/GameAccountServiceImplVer2.java</url>
+          <line>96</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/controller/ver2/auth/RentGameHistoryControllerVer2.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/controller/ver2/auth/GameAccountControllerVer2.java</url>
+          <line>47</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/service/ver2/impl/GameAccountServiceImplVer2.java</url>
+          <line>82</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/controller/ver2/auth/RentGameHistoryControllerVer2.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/service/ver2/impl/RentHistoryServiceImplVer2.java</url>
+          <line>65</line>
+          <properties />
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/repo/custom/RentGameHistoryCustomRepo.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/controller/ver1/auth/ChargeHistoryController.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/service/ver1/impl/ChargeHistoryServiceImpl.java</url>
+          <line>80</line>
+          <properties />
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/controller/ver2/auth/GameControllerVer2.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/controller/ver2/auth/GameControllerVer2.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/service/ver2/impl/GameServiceImplVer2.java</url>
+          <line>96</line>
+          <properties />
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/service/ver2/impl/GameServiceImplVer2.java</url>
+          <line>95</line>
+          <properties />
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/repo/custom/GameCustomRepo.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/repo/custom/GameCustomRepo.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/controller/ver1/publish/PublishSliderController.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/repo/custom/GameSliderRepo.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/refactor/Refactor.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/refactor/Refactor.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/refactor/Refactor.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/refactor/Refactor.java</url>
+          <line>41</line>
+          <properties />
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/repo/custom/GameCustomRepo.java</url>
+          <line>82</line>
+          <properties />
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/repo/custom/GameCustomRepo.java</url>
+          <line>110</line>
+          <properties />
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/refactor/Refactor.java</url>
+          <line>45</line>
+          <properties />
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/service/ver1/impl/CashoutHistoryServiceImpl.java</url>
+          <line>175</line>
+          <properties />
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/controller/ver2/auth/CashOutHistoryControllerVer2.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/controller/ver2/auth/CashOutHistoryControllerVer2.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/controller/ver2/auth/CashOutHistoryControllerVer2.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/service/ver2/impl/CashoutHistoryServiceImplVer2.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/refactor/Refactor.java</url>
+          <line>48</line>
+          <properties />
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/service/ver2/impl/CashoutHistoryServiceImplVer2.java</url>
+          <line>51</line>
+          <properties />
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/controller/ver1/auth/CashOutHistoryController.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/service/ver1/impl/CashoutHistoryServiceImpl.java</url>
+          <line>123</line>
+          <properties />
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/security/register/JwtRegisterProvider.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/controller/ver2/publish/LoginSocialController.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/service/ver2/impl/LoginSocialServiceImplVer2.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/controller/ver1/auth/UserController.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/service/ver1/impl/UserServiceImpl.java</url>
+          <line>115</line>
+          <properties />
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/controller/ver2/auth/ChargeHistoryControllerVer2.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/service/ver2/impl/ChargeServiceImplVer2.java</url>
+          <line>41</line>
+          <properties />
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/repo/custom/ChargeHistoryCustomRepo.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/controller/ver2/publish/LoginSocialController.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>could not appropriate contructor on class</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/config/JwtSecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="103" column="36" selection-start-line="103" selection-start-column="36" selection-end-line="103" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/security/JwtLoginRegisterProcessingFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="57" column="13" lean-forward="true" selection-start-line="57" selection-start-column="13" selection-end-line="57" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/security/JwtSuccessHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.0.6.RELEASE/spring-security-core-5.0.6.RELEASE-sources.jar!/org/springframework/security/core/AuthenticationException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.0.6.RELEASE/spring-security-core-5.0.6.RELEASE-sources.jar!/org/springframework/security/core/Authentication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-12">
+          <caret line="36" column="2" lean-forward="true" selection-start-line="36" selection-start-column="2" selection-end-line="36" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/security/register/JwtRegisterProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="30" column="22" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/security/JwtValidator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="17" column="51" selection-start-line="17" selection-start-column="51" selection-end-line="17" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/RentConstant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/security/JwtAuthenticationEntryPoint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="15" column="65" selection-start-line="15" selection-start-column="65" selection-end-line="15" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/security/exception/AuthenticationUsernamePasswordInvalidException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/security/exception/JwtExpiredTokenException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/security/exception/JwtInvalid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/security/jwt/JwtAuthenticationToken.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2193">
+          <caret line="129" column="37" selection-start-line="129" selection-start-column="37" selection-end-line="129" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/repo/custom/BaseCustomRepo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/repo/custom/RentGameHistoryCustomRepo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-122">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/repo/custom/GameSliderRepo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/repo/CashoutHistoryRepo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/domain/response/CashoutHistoryResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/domain/response/CategoryResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/domain/response/ChargeHistoryResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/domain/response/GameAccountResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/domain/response/GameDownloadResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/domain/response/GameResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/domain/response/GameStoreResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/domain/response/ListCategoryResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/domain/response/base/GetListResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/domain/request/UpdateGameAccountRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/domain/request/UpdateProfileRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/domain/request/LoginRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/domain/response/ListChargeHistoryResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/domain/response/ListDetailGameResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/domain/response/ListGameSliderResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" column="52" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/domain/request/CreateGameAccountRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/domain/request/DeleteRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/domain/dto/mapping/UserRentGameInfoMapping.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/repo/custom/UserGameInfoCustomRepo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="20" column="54" selection-start-line="20" selection-start-column="54" selection-end-line="20" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/domain/response/base/BaseResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="31" column="23" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/service/BaseService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="11" selection-start-line="11" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/service/ver1/ChargeHistoryService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/service/ver1/impl/CategoryServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="56" column="23" selection-start-line="56" selection-start-column="15" selection-end-line="56" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/service/ver1/impl/GameAccountServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="31" column="36" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/controller/ver1/publish/PublishGameController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/controller/ver1/publish/PublishShopController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/controller/ver2/publish/LoginSocialController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/controller/ver2/publish/PublishGameControllerVer2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/repo/custom/GameAccountCustomRepo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="29" column="9" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/repo/custom/ChargeHistoryCustomRepo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="24" column="35" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/repo/custom/GameCustomRepo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="85" column="100" selection-start-line="85" selection-start-column="83" selection-end-line="85" selection-end-column="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/domain/dto/mapping/GameOwnerPlayedMapping.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dts/rentgameapi/domain/entity/TblGameEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-306">
+          <caret line="14" selection-start-line="14" selection-end-line="15" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>JPA|rent-game-api</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
